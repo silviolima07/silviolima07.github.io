@@ -856,6 +856,8 @@ a:hover {
 .work-content .w-more {
   color: #4e4e4e;
   font-size: .8rem;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .work-content .w-more .w-ctegory {
@@ -1187,6 +1189,8 @@ a:hover {
 
 .card-blog .card-description {
   color: #4e4e4e;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .card-blog .post-author {
